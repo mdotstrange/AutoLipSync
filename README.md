@@ -1,6 +1,6 @@
 # AutoLipSync
 
-A simple script that will drive a jaw based on audio amplitude.
+A simple script that will drive a **lower** jaw based on audio amplitude.
 A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate to drive the jaw in your cutscenes.
 
 **AutojawSync script**
