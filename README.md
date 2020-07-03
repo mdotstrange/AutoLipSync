@@ -1,9 +1,9 @@
-# AutoLipSync
+# Simple auto lip sync script for Unity
 
 ![alt text](https://media.giphy.com/media/cilORnhbi89xYPT2zK/source.gif)
 
 
-A simple Unity C# script that will drive a **lower** jaw based on audio amplitude. It uses a low pass filter to smooth the output.
+A simple Unity C# script that will drive a **lower** jaw based on audio amplitude from an audio clip. It uses a low pass filter to smooth the output.
 A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate to drive the jaw in your cutscenes.
 
 **AutojawSync script**
