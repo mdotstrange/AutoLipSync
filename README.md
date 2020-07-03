@@ -14,6 +14,6 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 **Slate action**
 ![alt text](https://i.imgur.com/wwKUoYp.png)
 
-*When using the Slate action, Slate will populate the Audiosource variable so you can leave it empty.
+*When using the Slate action, Slate will populate the Audiosource variable so you can leave it empty. Don't forget to drag/drop the AutoJawSync script into the field at the bottom of the Slate action.
 
 **SLATE cutscene editor is much nicer than Timeline imo as a professional animation filmmaker**
