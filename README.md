@@ -1,6 +1,6 @@
 # AutoLipSync
 
-A simple script that will drive a **lower** jaw based on audio amplitude.
+A simple Unity C# script that will drive a **lower** jaw based on audio amplitude.
 A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate to drive the jaw in your cutscenes.
 
 **AutojawSync script**
@@ -12,3 +12,5 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 ![alt text](https://i.imgur.com/wwKUoYp.png)
 
 *When using the Slate action, Slate will populate the Audiosource variable so you can leave it empty.
+
+**SLATE cutscene editor is much nicer than Timeline imo as a professional animation filmmaker**
