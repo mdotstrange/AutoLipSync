@@ -21,5 +21,5 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 
 **NOTES**
 
--The "Live jaw output" variable is just for debugging purposes, it is the output of the jaw rotation so changing it won't do anything
+-The "Live jaw rotation output" variable is just for debugging purposes, it is the output of the jaw rotation so changing it won't do anything
 -This script works best with audio files that have been compressed and don't have any background noise, so use gate + compression on your audio files for best results.
