@@ -6,7 +6,7 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 **AutojawSync script**
 ![alt text](https://i.imgur.com/IHqKOtn.png)
 
-*Adjust the sensitivity and min/max to your liking
+*Set the audio source and adjust the sensitivity and min/max to your liking
 
 **Slate action**
 ![alt text](https://i.imgur.com/wwKUoYp.png)
