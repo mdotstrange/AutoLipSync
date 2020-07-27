@@ -1,8 +1,8 @@
 # Simple auto lip sync script for Unity
 
 **Made using AutoLipSync**
-*https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/
-*https://www.youtube.com/watch?v=Phx0fdT96DU&feature=youtu.be
+* https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/
+* https://www.youtube.com/watch?v=Phx0fdT96DU&feature=youtu.be
 
 ![alt text](https://media.giphy.com/media/cilORnhbi89xYPT2zK/source.gif)
 
