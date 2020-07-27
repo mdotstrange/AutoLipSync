@@ -18,6 +18,9 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 
 **SLATE cutscene editor is much nicer than Timeline imo as a professional animation filmmaker**
 
+**Made using AutoLipSync**
+*https://www.youtube.com/watch?v=Phx0fdT96DU&feature=youtu.be
+
 
 **NOTES**
 
