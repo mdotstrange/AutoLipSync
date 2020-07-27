@@ -1,5 +1,9 @@
 # Simple auto lip sync script for Unity
 
+**Made using AutoLipSync**
+*https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/
+*https://www.youtube.com/watch?v=Phx0fdT96DU&feature=youtu.be
+
 ![alt text](https://media.giphy.com/media/cilORnhbi89xYPT2zK/source.gif)
 
 
@@ -17,10 +21,6 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 *When using the Slate action, Slate will populate the Audiosource variable so you can leave it empty. Don't forget to drag/drop the AutoJawSync script into the field at the bottom of the Slate action.
 
 **SLATE cutscene editor is much nicer than Timeline imo as a professional animation filmmaker**
-
-**Made using AutoLipSync**
-*https://www.youtube.com/watch?v=Phx0fdT96DU&feature=youtu.be
-
 
 **NOTES**
 
