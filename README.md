@@ -1,10 +1,10 @@
 # Simple auto lip sync script for Unity
 
+![alt text](https://media.giphy.com/media/cilORnhbi89xYPT2zK/source.gif)
+
 **Made using AutoLipSync**
 * https://store.steampowered.com/app/1355310/Nightmare_Puppeteer/
 * https://www.youtube.com/watch?v=Phx0fdT96DU&feature=youtu.be
-
-![alt text](https://media.giphy.com/media/cilORnhbi89xYPT2zK/source.gif)
 
 
 A simple Unity C# script that will drive a **lower** jaw based on audio amplitude from an audio clip. It uses a low pass filter to smooth the output.
