@@ -26,7 +26,7 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 **Speechblend action**
 ![alt text](https://i.imgur.com/QWGC7Xc.png)
 
-Speechbland is a Unity asset that does basic lip sync with visemes- it works nicely with Daz Models
+Speechblend is a Unity asset that does basic lip sync with visemes- it works nicely with Daz Models
 
 **NOTES**
 
