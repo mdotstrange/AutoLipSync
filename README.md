@@ -23,6 +23,11 @@ A custom SLATE action is included called "PlayAudioWithLipSync" use it in Slate 
 
 **SLATE cutscene editor is much nicer than Timeline imo as a professional animation filmmaker**
 
+**Speechblend action**
+![alt text]([https://i.imgur.com/wwKUoYp.png](https://i.imgur.com/QWGC7Xc.png))
+
+Speechbland is a Unity asset that does basic lip sync with visemes- it works nicely with Daz Models
+
 **NOTES**
 
 -The "Live jaw rotation output" variable is just for debugging purposes, it is the output of the jaw rotation so changing it won't do anything
